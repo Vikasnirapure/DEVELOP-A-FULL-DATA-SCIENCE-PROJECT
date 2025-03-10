@@ -32,3 +32,16 @@ MENTOR :NEELA SANTHOSH KUMAR
 - MySQL
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/216e2e21-edeb-4257-8195-a4be9092dce6)
+
+![Image](https://github.com/user-attachments/assets/d9a800b0-489c-451b-9c4e-d59d6bb76de7)
+
+![Image](https://github.com/user-attachments/assets/86dbd470-122f-44bc-ba28-727f4f6f7d3b)
+
+![Image](https://github.com/user-attachments/assets/d883efd3-d73b-4cb2-9110-64abb988f244)
+
+![Image](https://github.com/user-attachments/assets/73878c71-7ceb-464d-bcec-20be7535ce34)
+
+![Image](https://github.com/user-attachments/assets/fe3ff077-b6e7-4e84-9a2f-573561d76c50)
+
+![Image](https://github.com/user-attachments/assets/2993c6a6-02b1-4bd3-ab4c-a3803ec62872)
