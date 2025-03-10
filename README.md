@@ -1,4 +1,14 @@
 # Calorie Calculator Website 🖩
+
+COMPANY : CODTECH IT SOLUTION
+NAME : VIKAS KUMAR NIRAPURE
+INTERN ID :CT08SYQ
+DOMAIN : DATA SCIENCE
+DURATION : 4 WEEKS
+MENTOR :NEELA SANTHOSH KUMAR 
+
+
+
 <p align="left">
     <img src="results/banner_image.jpg" alt="BannerImage" width="500" height="450">
 </p>
@@ -21,51 +31,4 @@
 - Django/Python
 - MySQL
 
----
-
-## <a name="Results?">Results?</a>
-
-<table style="width:2800px; border: black; margin: 0px auto;" class="skinny" cellspacing="0" cellpadding="0">
-    <tr>
-        <td>
-            <img src="results/register_page.png" alt="Image" width="700" height="100">
-        </td>
-        <td>
-            <img src="results/login_page.png" alt="Image" width="700" height="100">
-        </td>
-        <td>
-            <img src="results/set_calorie.png" alt="Image" width="700" height="100">
-        </td>
-        <td>
-            <img src="results/add_fooditem.png" alt="Image" width="700" height="100">
-        </td>
-    </tr>
-    <tr>
-        <th>Register Page</th>
-        <th>Login Page</th>
-        <th>Set Calorie Target</th>
-        <th>Add Food Item</th>
-    </tr>
-    <tr>
-        <td>
-            <img src="results/fooditem_analysis.png" alt="Image" width="700" height="100">
-        </td>
-        <td>
-            <img src="results/add_exercise.png" alt="Image" width="700" height="100">
-        </td>
-        <td>
-            <img src="results/exercise_analysis.png" alt="Image" width="700" height="100">
-        </td>
-        <td>
-            <img src="results/final_report.png" alt="Image" width="700" height="100">
-        </td>
-    </tr>
-    <tr>
-        <th>Food Item Analysis</th>
-        <th>Add Exercise</th>
-        <th>Exercise Analysis</th>
-        <th>Final Report</th>
-    </tr>  
-</table>
-
----
+#OUTPUT
